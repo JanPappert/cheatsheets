@@ -1,10 +1,8 @@
 * Interesting packages
 ** Memacs
-** company-mode
 ** ledger
 ** hippie-expand
 ** hydra
-** nav
 ** Yasnippet
 ** git-gutter
 ** pdf-tools
