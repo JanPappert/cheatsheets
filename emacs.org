@@ -6,7 +6,5 @@
 ** hydra
 ** nav
 ** Yasnippet
-** helm-swoop
-** undo-tree
 ** git-gutter
 ** pdf-tools
