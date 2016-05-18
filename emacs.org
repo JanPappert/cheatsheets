@@ -8,6 +8,5 @@
 ** Yasnippet
 ** helm-swoop
 ** undo-tree
-** zzz-to-char
 ** git-gutter
 ** pdf-tools
