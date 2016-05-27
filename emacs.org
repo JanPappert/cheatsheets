@@ -3,6 +3,4 @@
 ** ledger
 ** hippie-expand
 ** hydra
-** Yasnippet
 ** git-gutter
-** pdf-tools
