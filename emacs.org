@@ -2,5 +2,5 @@
 ** Memacs
 ** ledger
 ** hippie-expand
-** hydra
 ** git-gutter
+** helm-flycheck
