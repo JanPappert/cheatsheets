@@ -1,6 +1,7 @@
 * Interesting packages
 ** Memacs
-** ledger
-** hippie-expand
 ** git-gutter
 ** helm-flycheck
+** use-package
+** Clean up .emacs
+** Facebook chat in emacs

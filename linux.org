@@ -1,0 +1,3 @@
+* Command line tricks
+** Show sizes of folders
+du -sh shows the size of folders, while ls only shows the size of the link (the minimum block size is 4096 bytes, which is shown as 4k)
