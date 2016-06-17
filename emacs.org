@@ -2,6 +2,9 @@
 ** Memacs
 ** git-gutter
 ** helm-flycheck
-** use-package
-** Clean up .emacs
 ** Facebook chat in emacs
+** color-moccur
+** moccur-edit
+** ace-jump-mode
+* Concepts
+** org tables indebt

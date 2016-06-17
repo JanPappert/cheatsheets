@@ -1,0 +1,40 @@
+#+TITLE: Dired Cheatsheet
+#+OPTIONS: toc:nil author:nil date:nil
+#+LaTeX_HEADER: \usepackage{nopageno}
+
+| Binding     | Function                                 | Shell equivalent |
+|-------------+------------------------------------------+------------------|
+| =Enter=     | open file in this window                 |                  |
+| =o=         | open file in other window                |                  |
+| =g=         | refresh buffer                           |                  |
+| =s=         | toggle sorting by either name or date    |                  |
+| =^=         | visit parent directory                   | =cd ..=          |
+|-------------+------------------------------------------+------------------|
+| =m=         | mark                                     |                  |
+| =u= / =U=   | unmark / unmark all                      |                  |
+| =% m=       | mark by regexp                           |                  |
+| =% g=       | mark files with contents matching regexp |                  |
+| =t=         | toggle all marks                         |                  |
+|-------------+------------------------------------------+------------------|
+| =d= / =D=   | flag for deletion / delete now!          | =rm=             |
+| =% d=       | flag by regexp                           | =rm=             |
+|-------------+------------------------------------------+------------------|
+| =R=         | rename / move                            | =mv=             |
+| =C=         | copy                                     | =cp=             |
+| =i= / =+=   | create directory                         | =mkdir=          |
+| =S=         | create symlink pointing to this file     | =ln -s=          |
+| =T=         | update timestamp                         | =touch=          |
+|-------------+------------------------------------------+------------------|
+| =M=         | change mode                              | =chmod=          |
+| =O=         | change owner                             | =chown=          |
+| =G=         | change group                             | =chgrp=          |
+|-------------+------------------------------------------+------------------|
+| =Z=         | compress / uncompress (=.gz=)            | =gzip=           |
+| =:s= / =:v= | sign/verify signature                    | =gpg=            |
+| =:e= / =:d= | encrypt/decrypt                          | =gpg=            |
+| =L=         | load and evaluate lisp file              |                  |
+| =A=         | grep marked for regexp (not recursive)   | =grep=           |
+| =y=         | show type of file                        | =file=           |
+|-------------+------------------------------------------+------------------|
+| =!=         | run shell command on marked              |                  |
+| =&=         | run async shell command on marked        |                  |
