@@ -1,0 +1,13 @@
+#+TITLE: Magit Cheatsheet
+#+OPTIONS: toc:nil author:nil date:nil
+#+LaTeX_HEADER: \usepackage{nopageno}
+
+| Binding | Function  |
+|---------+-----------|
+| =u=     | Unstage   |
+| =n=     | Move down |
+| =p=     | Move up   |
+| =P=     | Push      |
+| =s=     | Stage     |
+
+

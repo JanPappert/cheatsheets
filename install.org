@@ -1,0 +1,10 @@
+#+TITLE: Cheatsheet to install software
+#+OPTIONS: toc:nil author:Jan-Christopher Pappert date:nil
+#+LaTeX_HEADER: \usepackage{nopageno}
+
+* mbsync
+1. Create a folder to store mail =md gmail-backup=
+2. Install dependencies =sudo apt-get install libssl-dev= or equivalent
+3. Download isync and unpack =tar -xvzf isync-1.2.1.tar.gz=
+4. =./configure=, =make= and =sudo make install=
+5. Retrieve mail =mbsync gmail=

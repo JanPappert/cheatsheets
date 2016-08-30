@@ -1,0 +1,12 @@
+#+TITLE: Calc Cheatsheet
+#+OPTIONS: toc:nil author:Jan-Christopher Pappert date:2016/08/12
+#+LaTeX_HEADER: \usepackage{nopageno}
+
+| Expression | Function    |
+|------------+-------------|
+| =+=        | Add         |
+| =-=        | Substract   |
+| =*=        | Multiply    |
+| =/=        | Divide      |
+| =n=        | Change sign |
+| =&=        | Invert      |
