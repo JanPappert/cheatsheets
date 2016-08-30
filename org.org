@@ -2,7 +2,24 @@
 #+OPTIONS: toc:nil author:nil date:nil
 #+LaTeX_HEADER: \usepackage{nopageno}
 
-
-
+* Tables
+| Binding     | Function                                     |
+|-------------+----------------------------------------------|
+| C-c S-\     | Convert region to table                      |
+| =TAB=       | Realign table, move to n. block              |
+| S-TAB       | Realign table, move to p. block              |
+| =Ret=       | Realign, moves to next row (or creates one)  |
+|-------------+----------------------------------------------|
+| M-s-<up>    | Delete current row                           |
+| M-S-<down>  | Insert row above the current one             |
+| M-S-<left>  | Kill current column                          |
+| M-S-<right> | Insert column left of the current one        |
+| M-<up>      | Move current row up                          |
+| M-<down>    | Move current row down                        |
+| M-<left>    | Move current row left                        |
+| M-<right>   | Move current row right                       |
+|-------------+----------------------------------------------|
+| C-c -       | Insert horizontal line                       |
+| C-c <RET>   | Insert horizontal line and column below that |
 * Hotkeys
 ** M-Ret: Neuer Unterpunkt 
