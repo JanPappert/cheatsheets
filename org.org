@@ -10,7 +10,7 @@
 | S-TAB       | Realign table, move to p. block              |
 | =Ret=       | Realign, moves to next row (or creates one)  |
 |-------------+----------------------------------------------|
-| M-s-<up>    | Delete current row                           |
+| M-S-<up>    | Delete current row                           |
 | M-S-<down>  | Insert row above the current one             |
 | M-S-<left>  | Kill current column                          |
 | M-S-<right> | Insert column left of the current one        |
