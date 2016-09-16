@@ -9,5 +9,6 @@
 | =p=     | Move up   |
 | =P=     | Push      |
 | =s=     | Stage     |
+| =k=     | Discard   |
 
 

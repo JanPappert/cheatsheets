@@ -1,10 +1,12 @@
 * Interesting packages
 ** Memacs
-** git-gutter
 ** helm-flycheck
-** Facebook chat in emacs
 ** color-moccur
 ** moccur-edit
 ** ace-jump-mode
+** Deft
+** git-timemashine
+** emmet
+** Modalka
 * Concepts
-** org tables indebt
+** Modal editing

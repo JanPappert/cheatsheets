@@ -1,0 +1,8 @@
+#+TITLE: Ledger Cheatsheet
+#+OPTIONS: toc:nil author:Jan-Christopher Pappert date:2016/08/12
+#+LaTeX_HEADER: \usepackage{nopageno}
+
+| Expression | Function                          |
+|------------+-----------------------------------|
+| =-b DATE=  | Limit to transactions after DATE  |
+| =-e DATE=  | Limit to transactions before DATE |
